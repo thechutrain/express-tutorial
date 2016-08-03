@@ -1,5 +1,3 @@
-"# express-tutorial"
-<hr>
-
-### following the documentation from express.js
-#### I will be playing around with this code!
+# express-tutorial
+I am following the documentation from express.js and
+will be playing around with this code!

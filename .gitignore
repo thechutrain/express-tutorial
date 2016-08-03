@@ -1,1 +1,6 @@
 .DS_Store
+npm-debug.log
+node_modules/.
+myApp_express/node_modules/.
+myApp_express/bin/.
+myApp_express/npm-debug.log
